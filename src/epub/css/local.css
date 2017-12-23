@@ -20,6 +20,12 @@ section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 }
 
+[epub|type~="se:letter.dateline"]{
+	margin-top: 1em;
+	text-align: right;
+	font-style: italic;
+}
+
 [epub|type~="z3998:valediction"]{
 	text-align: right;
 }
