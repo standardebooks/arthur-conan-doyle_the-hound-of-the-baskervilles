@@ -50,7 +50,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-hound-of-the-baskervilles</meta>
 		<dc:creator id="author">Arthur Conan Doyle</dc:creator>
 		<meta property="file-as" refines="#author">Doyle, Arthur Conan</meta>
-		<meta property="full-name">Arthur Ignatius Conan Doyle</meta>
+		<meta property="se:name.person.full-name">Arthur Ignatius Conan Doyle</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
