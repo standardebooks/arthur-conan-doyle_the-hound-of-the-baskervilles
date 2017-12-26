@@ -5,17 +5,20 @@ abbr.name{
 	white-space: nowrap;
 }
 
-section[epub|type~="dedication"] p{
+section[epub|type~="dedication"]{
 	font-style: italic;
-	text-align: center;
-	text-indent: 0;
 }
 
 [epub|type~="z3998:letter"] footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
-[epub|type~="z3998:salutation"],
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+	text-indent: 0;
+}
+
 [epub|type~="z3998:recipient"]{
 	font-variant: small-caps;
 }
@@ -42,4 +45,10 @@ section[epub|type~="dedication"] p{
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
+}
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+	font-variant: small-caps;
 }
