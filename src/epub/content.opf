@@ -37,13 +37,14 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;It would be hard to nominate a more well-known character in English literature than that of the austere analytical detective Sherlock Holmes, created by Arthur Conan Doyle in the late 1880s. Holmes, alongside his friend and biographer Dr. John Watson, appeared in two initial novels and dozens of short stories serialised in popular magazines, attracting a devoted, almost fanatical following which continues to this day.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, serialised in 1901-1902, was the third novel featuring Holmes and Watson. Sherlock Holmes is consulted in his Baker Street apartment by a Dr. Mortimer, a physician now living on the fringes of Dartmoor. He gives Holmes and Watson an account of a centuries-old legend. The story tells of a hell-hound which slaughtered the debauched heir of the Baskerville family who had been in lecherous pursuit of an innocent maiden across the moor. The same hound is reputed to have harrowed several of the subsequent heirs to the estate.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, serialised in 1901–1902, was the third novel featuring Holmes and Watson. Sherlock Holmes is consulted in his Baker Street apartment by a Dr. Mortimer, a physician now living on the fringes of Dartmoor. He gives Holmes and Watson an account of a centuries-old legend. The story tells of a hell-hound which slaughtered the debauched heir of the Baskerville family who had been in lecherous pursuit of an innocent maiden across the moor. The same hound is reputed to have harrowed several of the subsequent heirs to the estate.&lt;/p&gt;
 			&lt;p&gt;This ancient story might be dismissed as mere fancy, but for the fact that the elderly Sir Charles Baskerville recently died in very mysterious circumstances, apparently fleeing in terror from something which came from the moor. Dr. Mortimer is concerned that the new heir, Sir Henry, just returned from Canada, may be at risk from this supernatural beast. Holmes is intrigued, but being too busy to go himself, sends Dr. Watson to accompany Sir Henry to the ancestral home on Dartmoor and to report anything suspicious.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Hound of the Baskervilles&lt;/i&gt; is arguably the best and most certainly the most popular of Doyle’s novels featuring his iconic detective. It has been translated into almost every language in the world and been the basis of dozens of movies (starting as early as 1914), radio plays and comic-book versions.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2852</dc:source>
+		<dc:source>https://archive.org/details/houndofbaskervil00doyluoft</dc:source>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles</meta>
@@ -74,6 +75,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
