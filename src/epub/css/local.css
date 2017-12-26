@@ -9,6 +9,11 @@ section[epub|type~="dedication"]{
 	font-style: italic;
 }
 
+[epub|type~="z3998:letter"]{
+	margin-left: 0;
+	margin-right: 0;
+}
+
 [epub|type~="z3998:letter"] footer{
 	margin-top: 1em;
 	text-align: right;
@@ -39,16 +44,32 @@ section[epub|type~="dedication"]{
 }
 
 [epub|type~="bridgehead"]{
-	display: inline-block;
 	font-style: italic;
 	margin: 0 auto 3em auto;
-	max-width: 60%;
-	text-align: justify;
+	text-align: center;
 	text-indent: 0;
+}
+
+[epub|type~="z3998:diary"]{
+	margin: 0;
+}
+
+[epub|type~="z3998:diary-entry"]{
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0.5em;
+}
+
+[epub|type~="z3998:diary-entry"] > p time{
+	font-style: italic;
 }
 
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 	font-variant: small-caps;
+}
+
+section > header > h2{
+	margin-bottom: 1em; /* smaller bridgehead margins look better here */
 }
