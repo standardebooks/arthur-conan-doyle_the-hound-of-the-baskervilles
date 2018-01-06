@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/arthur-conan-doyle/the-hound-of-the-baskervilles</dc:identifier>
 		<dc:date>2017-12-26T23:14:09Z</dc:date>
-		<meta property="dcterms:modified">2017-12-26T23:14:09Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2018-01-06T23:55:09Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,10 +55,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Arthur_Conan_Doyle</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79082292</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Thomas Eakins</dc:contributor>
-		<meta property="file-as" refines="#artist">Eakins, Thomas</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.m.wikipedia.org/wiki/Thomas_Eakins</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80061185</meta>
+		<dc:contributor id="artist">Caspar David Friedrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Friedrich, Caspar David</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Caspar_David_Friedrich</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79059754</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Shreevatsa R</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shreevatsa R</meta>
