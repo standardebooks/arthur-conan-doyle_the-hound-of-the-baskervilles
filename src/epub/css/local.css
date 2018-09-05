@@ -60,3 +60,9 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 	font-variant: small-caps;
 }
+
+#chapter-8 blockquote,
+#chapter-9 blockquote{
+	margin-left: 0;
+	margin-right: 0;
+}
