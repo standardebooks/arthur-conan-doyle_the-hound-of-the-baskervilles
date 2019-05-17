@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Hound of the Baskervilles</dc:title>
 		<meta property="file-as" refines="#title">Hound of the Baskervilles, The</meta>
 		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
@@ -35,24 +35,28 @@
 		<dc:subject id="subject-4">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-5">Blessing and cursing -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Dartmoor (England) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2852</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2852</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2852</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2852</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2852</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2852</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008109474</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008102051</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85037260</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2007102047</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:collection">Sherlock Holmes</meta>
 		<dc:description id="description">A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;It would be hard to nominate a more well-known character in English literature than that of the austere analytical detective Sherlock Holmes, created by Arthur Conan Doyle in the late 1880s. Holmes, alongside his friend and biographer Dr. John Watson, appeared in two initial novels and dozens of short stories serialised in popular magazines, attracting a devoted, almost fanatical following which continues to this day.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Hound of the Baskervilles&lt;/i&gt;, serialised in 1901–1902, was the third novel featuring Holmes and Watson. Sherlock Holmes is consulted in his Baker Street apartment by a Dr. Mortimer, a physician now living on the fringes of Dartmoor. He gives Holmes and Watson an account of a centuries-old legend. The story tells of a hell-hound which slaughtered the debauched heir of the Baskerville family who had been in lecherous pursuit of an innocent maiden across the moor. The same hound is reputed to have harrowed several of the subsequent heirs to the estate.&lt;/p&gt;
 			&lt;p&gt;This ancient story might be dismissed as mere fancy, but for the fact that the elderly Sir Charles Baskerville recently died in very mysterious circumstances, apparently fleeing in terror from something which came from the moor. Dr. Mortimer is concerned that the new heir, Sir Henry, just returned from Canada, may be at risk from this supernatural beast. Holmes is intrigued, but being too busy to go himself, sends Dr. Watson to accompany Sir Henry to the ancestral home on Dartmoor and to report anything suspicious.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Hound of the Baskervilles&lt;/i&gt; is arguably the best and most certainly the most popular of Doyle’s novels featuring his iconic detective. It has been translated into almost every language in the world and been the basis of dozens of movies (starting as early as 1914), radio plays and comic-book versions.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2852</dc:source>
 		<dc:source>https://archive.org/details/houndofbaskervil00doyluoft</dc:source>
