@@ -49,7 +49,8 @@
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta property="se:collection">Sherlock Holmes</meta>
+		<meta property="belongs-to-collection" id="collection-1">Sherlock Holmes</meta>
+		<meta property="collection-type" refines="collection-1">series</meta>
 		<dc:description id="description">A famous detective investigates a mysterious and apparently supernatural threat to the heir of a wealthy Dartmoor estate.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;It would be hard to nominate a more well-known character in English literature than that of the austere analytical detective &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt;, created by &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Arthur Conan Doyle&lt;/a&gt; in the late 1880s. Holmes, alongside his friend and biographer &lt;abbr&gt;Dr.&lt;/abbr&gt; John Watson, appeared in two initial novels and dozens of short stories serialised in popular magazines, attracting a devoted, almost fanatical following which continues to this day.&lt;/p&gt;
