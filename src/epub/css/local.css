@@ -10,6 +10,14 @@ section[epub|type~="dedication"]{
 	margin-top: 20vh;
 }
 
+section[epub|type~="dedication"] p{
+	text-indent: 0;
+}
+
+section[epub|type~="dedication"] p:first-child{
+	font-variant: small-caps;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
