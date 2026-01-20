@@ -73,7 +73,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2852</dc:source>
 		<dc:source>https://archive.org/details/houndofbaskervil00doyluoft</dc:source>
-		<meta property="se:word-count">59649</meta>
+		<meta property="se:word-count">59283</meta>
 		<meta property="se:reading-ease.flesch">80.92</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-conan-doyle_the-hound-of-the-baskervilles</meta>
