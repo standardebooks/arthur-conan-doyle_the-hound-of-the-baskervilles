@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Hound of the Baskervilles</dc:title>
 		<meta property="file-as" refines="#title">Hound of the Baskervilles, The</meta>
-		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Dogs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character)--Fiction</dc:subject>
+		<dc:subject id="subject-2">Private investigators--England--Fiction</dc:subject>
+		<dc:subject id="subject-3">Dogs--Fiction</dc:subject>
 		<dc:subject id="subject-4">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-5">Blessing and cursing -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Dartmoor (England) -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Blessing and cursing--Fiction</dc:subject>
+		<dc:subject id="subject-6">Dartmoor (England)--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
