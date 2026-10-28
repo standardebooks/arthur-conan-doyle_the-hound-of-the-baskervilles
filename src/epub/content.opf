@@ -74,7 +74,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2852</dc:source>
 		<dc:source>https://archive.org/details/houndofbaskervil00doyluoft</dc:source>
-		<meta property="schema:wordCount">59283</meta>
+		<meta property="schema:wordCount">59285</meta>
 		<meta property="schema:educationalLevel">80.92</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Hound_of_the_Baskervilles" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
